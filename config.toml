@@ -1,4 +1,4 @@
-baseURL = " https://koshlakov.com/ictd.github.io/"
+baseURL = " https://koshlakov.com/ictd-site/"
 languageCode = "en-us"
 title = "Hugo Serif Theme"
 #baseURL = "/"
